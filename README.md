@@ -13,7 +13,7 @@ Extracts Minecraft sound and music files from the game’s assets, making it eas
 **Option 1:** 
 - Clone the repository to your local machine:
 - git clone https://github.com/PlxtZ/Minecraft-Music-Extractor.git
-- 
+  
 **Option 2:** 
 - Download the extractor_music.py file.
 - Run the script on your local machine.
@@ -28,4 +28,3 @@ Extracts Minecraft sound and music files from the game’s assets, making it eas
      python extractor_music.py
 3. The sound files will be extracted and saved in the location
      "~/Desktop/MC_Sounds/sounds/
-
