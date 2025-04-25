@@ -27,4 +27,4 @@ Extracts Minecraft sound and music files from the game’s assets, making it eas
 2. Run the script by either opening it or runing it on terminal
      python extractor_music.py
 3. The sound files will be extracted and saved in the location
-     "~/Desktop/MC_Sounds/sounds/
+     "~/Desktop/MC_Sounds/sounds/"
